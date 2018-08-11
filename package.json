@@ -1,0 +1,26 @@
+{
+  "name": "bulk-extension-rename",
+  "version": "1.0.0",
+  "description": "Rename multiple extensions of files in folder in single command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharukaHS/Bulk-Rename.git"
+  },
+  "keywords": [
+    "rename",
+    "Rename",
+    "Files",
+    "Bulk",
+    "Rename"
+  ],
+  "author": "CharukaHS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharukaHS/Bulk-Rename/issues"
+  },
+  "homepage": "https://github.com/CharukaHS/Bulk-Rename#readme"
+}
